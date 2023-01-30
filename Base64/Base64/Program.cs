@@ -5,7 +5,7 @@ namespace Base64
     {
         static void Main(string[] args)
         {
-            char[] vstupData = new char[4];
+            char[] vstupData  = new char[4];
             byte[] decodeData = new byte[4];
             byte[] vystupData = new byte[3];
 
