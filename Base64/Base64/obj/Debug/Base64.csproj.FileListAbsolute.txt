@@ -1,0 +1,30 @@
+C:\Users\kindl.daniel10\Desktop\Base64\Base64\bin\Debug\Base64.exe.config
+C:\Users\kindl.daniel10\Desktop\Base64\Base64\bin\Debug\Base64.exe
+C:\Users\kindl.daniel10\Desktop\Base64\Base64\bin\Debug\Base64.pdb
+C:\Users\kindl.daniel10\Desktop\Base64\Base64\obj\Debug\Base64.csprojAssemblyReference.cache
+C:\Users\kindl.daniel10\Desktop\Base64\Base64\obj\Debug\Base64.csproj.CoreCompileInputs.cache
+C:\Users\kindl.daniel10\Desktop\Base64\Base64\obj\Debug\Base64.exe
+C:\Users\kindl.daniel10\Desktop\Base64\Base64\obj\Debug\Base64.pdb
+C:\Users\Daniel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\bin\Debug\Base64.exe.config
+C:\Users\Daniel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\bin\Debug\Base64.exe
+C:\Users\Daniel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\bin\Debug\Base64.pdb
+C:\Users\Daniel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\obj\Debug\Base64.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\obj\Debug\Base64.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\obj\Debug\Base64.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\obj\Debug\Base64.exe
+C:\Users\Daniel\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\obj\Debug\Base64.pdb
+C:\Users\Daniel\Desktop\Base64\Base64\bin\Debug\Base64.exe.config
+C:\Users\Daniel\Desktop\Base64\Base64\bin\Debug\Base64.exe
+C:\Users\Daniel\Desktop\Base64\Base64\bin\Debug\Base64.pdb
+C:\Users\Daniel\Desktop\Base64\Base64\obj\Debug\Base64.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Base64\Base64\obj\Debug\Base64.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\Base64\Base64\obj\Debug\Base64.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Base64\Base64\obj\Debug\Base64.exe
+C:\Users\Daniel\Desktop\Base64\Base64\obj\Debug\Base64.pdb
+C:\Users\kindl.daniel10\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\bin\Debug\Base64.exe.config
+C:\Users\kindl.daniel10\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\bin\Debug\Base64.exe
+C:\Users\kindl.daniel10\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\bin\Debug\Base64.pdb
+C:\Users\kindl.daniel10\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\obj\Debug\Base64.csprojAssemblyReference.cache
+C:\Users\kindl.daniel10\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\obj\Debug\Base64.csproj.CoreCompileInputs.cache
+C:\Users\kindl.daniel10\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\obj\Debug\Base64.exe
+C:\Users\kindl.daniel10\OneDrive - Střední průmyslová škola a Vyšší odborná škola, Chomutov, Školní 50, příspěvková organizace\PRG\Base64\Base64\obj\Debug\Base64.pdb
